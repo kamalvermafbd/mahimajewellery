@@ -9,7 +9,7 @@ const links = [
 ];
 
 const WHATSAPP =
-  "https://wa.me/919928388987?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%27m%20interested%20in%20wholesale%20enquiry.";
+  "https://wa.me/919999999999?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%27m%20interested%20in%20wholesale%20enquiry.";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -46,7 +46,7 @@ const Navbar = () => {
             {/* CENTER: Brand */}
             <div className="text-center px-2">
              <h1 className="font-cinzel font-black text-4xl md:text-6xl lg:text-7xl tracking-[0.11em] text-gold-shine leading-tight drop-shadow-[0_3px_10px_rgba(0,0,0,0.15)]">
-  STAR FASHION
+  ROYAL SPARK
 </h1>
 
 <p className="font-serif italic text-maroon font-semibold text-lg md:text-2xl lg:text-3xl mt-4">
@@ -65,13 +65,13 @@ const Navbar = () => {
               <div className="flex items-start gap-2">
                 <MapPin className="w-3.5 h-3.5 text-gold mt-0.5 shrink-0" />
                 <div>
-                  Opp Bombay Market, Balji Gali,
+                  Bombay Market
                   <br />
-                  Purani Mandi, Ajmer - 305001
+                 JAIPUR
                 </div>
               </div>
               <a
-                href="tel:9928388987"
+                href="tel:9999999999"
                 className="flex items-center gap-2 mt-3 text-maroon hover:text-gold-dark transition-colors font-semibold"
               >
                 <Phone className="w-3.5 h-3.5 text-gold" /> +91 99283 88987
