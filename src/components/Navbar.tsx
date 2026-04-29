@@ -74,7 +74,7 @@ const Navbar = () => {
                 href="tel:9999999999"
                 className="flex items-center gap-2 mt-3 text-maroon hover:text-gold-dark transition-colors font-semibold"
               >
-                <Phone className="w-3.5 h-3.5 text-gold" /> +91 99283 88987
+                <Phone className="w-3.5 h-3.5 text-gold" /> +91 99999 99999
               </a>
             </div>
           </div>
