@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="md:col-span-2">
         
         <p className="text-background/65 font-light leading-relaxed max-w-md">
-          Premium wholesale jewellery from the heart of Rajasthan. Specialising in bridal, wedding,
+          Premium wholesale jewellery from the heart of Jaipur. Specialising in bridal, wedding,
           fashion and traditional collections for retailers across India.
         </p>
         <div className="flex gap-3 mt-6">
@@ -36,7 +36,7 @@ const Footer = () => (
         <h4 className="font-serif text-xl mb-5 text-gold-light">Contact</h4>
         <ul className="space-y-4 text-sm text-background/70 font-light">
           <li className="flex gap-3"><Phone className="w-4 h-4 text-gold mt-0.5" /> +91 99999 99999</li>
-          <li className="flex gap-3"><MapPin className="w-4 h-4 text-gold mt-0.5" /> Ajmer, Rajasthan, India</li>
+          <li className="flex gap-3"><MapPin className="w-4 h-4 text-gold mt-0.5" /> Jaipur, India</li>
           <li>
             <a
               href="https://wa.me/919928388987"
