@@ -1,11 +1,11 @@
-import logo from "@/assets/logo-star.png";
+
 import { Phone, MapPin, MessageCircle, Instagram, Facebook } from "lucide-react";
 
 const Footer = () => (
   <footer className="bg-foreground text-background pt-20 pb-8">
     <div className="container grid md:grid-cols-4 gap-12 mb-16">
       <div className="md:col-span-2">
-        <img src={logo} alt="Star Fashion Ajmer" className="h-16 w-auto mb-6 brightness-0 invert opacity-90" />
+        
         <p className="text-background/65 font-light leading-relaxed max-w-md">
           Premium wholesale jewellery from the heart of Rajasthan. Specialising in bridal, wedding,
           fashion and traditional collections for retailers across India.
@@ -52,7 +52,7 @@ const Footer = () => (
     </div>
 
     <div className="container pt-8 border-t border-background/10 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-background/50 tracking-wider">
-      <p>© {new Date().getFullYear()} Star Fashion Ajmer. All rights reserved.</p>
+      <p>© {new Date().getFullYear()} Royal Spark Jewels. All rights reserved.</p>
       <p className="uppercase">Premium Wholesale Jewellery · Ajmer</p>
     </div>
   </footer>
