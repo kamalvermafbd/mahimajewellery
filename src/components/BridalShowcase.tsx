@@ -1,7 +1,7 @@
 import bridal from "@/assets/cat-bridal.jpg";
 import { Crown, MessageCircle } from "lucide-react";
 
-const WA = "https://wa.me/919928388987?text=Hello%20Star%20Fashion%20Ajmer%2C%20please%20share%20bridal%20%26%20wedding%20wholesale%20catalogue.";
+const WA = "https://wa.me/919999999999?text=Hello%20Star%20Fashion%20Ajmer%2C%20please%20share%20bridal%20%26%20wedding%20wholesale%20catalogue.";
 
 const BridalShowcase = () => (
   <section id="bridal" className="relative py-24 md:py-32 bg-foreground text-background overflow-hidden">
