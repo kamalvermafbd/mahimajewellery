@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="md:col-span-2">
         
         <p className="text-background/65 font-light leading-relaxed max-w-md">
-          Premium wholesale jewellery from the heart of Jaipur. Specialising in bridal, wedding,
+          Premium jewellery from the heart of Jaipur. Specialising in bridal, wedding,
           fashion and traditional collections for retailers across India.
         </p>
         <div className="flex gap-3 mt-6">
@@ -39,7 +39,7 @@ const Footer = () => (
           <li className="flex gap-3"><MapPin className="w-4 h-4 text-gold mt-0.5" /> Jaipur, India</li>
           <li>
             <a
-              href="https://wa.me/919928388987"
+              href="https://wa.me/919999999999"
               target="_blank"
               rel="noopener"
               className="inline-flex items-center gap-2 mt-2 text-gold hover:text-gold-light transition-colors"
@@ -53,7 +53,7 @@ const Footer = () => (
 
     <div className="container pt-8 border-t border-background/10 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-background/50 tracking-wider">
       <p>© {new Date().getFullYear()} Royal Spark Jewels. All rights reserved.</p>
-      <p className="uppercase">Premium Wholesale Jewellery · Ajmer</p>
+      <p className="uppercase">Premium Jewellery · Ajmer</p>
     </div>
   </footer>
 );
