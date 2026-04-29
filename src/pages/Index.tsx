@@ -10,10 +10,10 @@ import WhatsAppFloat from "@/components/WhatsAppFloat";
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Star Fashion Ajmer · Premium Wholesale Jewellery";
+    document.title = "Royal Spark · Premium  Jewellery";
     const meta = document.querySelector('meta[name="description"]');
     const content =
-      "Premium wholesale jewellery supplier in Ajmer — bridal sets, bangles, earrings, necklace sets, velvet chudi, cosmetics & more. PAN India delivery.";
+      "Premium Jewellery store in Jaipur — bridal sets, bangles, earrings, necklace sets, velvet chudi, cosmetics & more. PAN India delivery.";
     if (meta) meta.setAttribute("content", content);
     else {
       const m = document.createElement("meta");
