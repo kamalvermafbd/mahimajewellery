@@ -1,6 +1,6 @@
 import { MessageCircle, Phone } from "lucide-react";
 
-const WA = "https://wa.me/919928388987?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%20want%20to%20become%20a%20wholesale%20dealer.";
+const WA = "https://wa.me/919999999999?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%20want%20to%20become%20a%20wholesale%20dealer.";
 
 const CTASection = () => (
   <section id="contact" className="py-24 md:py-32 bg-ivory-gradient">
@@ -35,7 +35,7 @@ const CTASection = () => (
               href="tel:9928388987"
               className="inline-flex items-center justify-center gap-3 px-8 py-4 border border-gold/60 text-background text-sm uppercase tracking-[0.2em] hover:bg-gold hover:text-primary-foreground transition-all duration-500"
             >
-              <Phone className="w-4 h-4" /> +91 99283 88987
+              <Phone className="w-4 h-4" /> +91 99999 99999
             </a>
           </div>
 
