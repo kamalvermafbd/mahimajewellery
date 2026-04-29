@@ -2,7 +2,7 @@ import hero from "@/assets/hero-bridal.jpg";
 import { MessageCircle, Sparkles } from "lucide-react";
 
 const WHATSAPP =
-  "https://wa.me/919928388987?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%27m%20interested%20in%20bridal%20wholesale%20catalogue.";
+  "https://wa.me/919999999999?text=Hello%20Star%20Fashion%20Ajmer%2C%20I%27m%20interested%20in%20bridal%20wholesale%20catalogue.";
 
 const Hero = () => (
   <section
