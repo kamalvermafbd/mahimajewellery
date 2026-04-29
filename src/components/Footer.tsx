@@ -35,7 +35,7 @@ const Footer = () => (
       <div>
         <h4 className="font-serif text-xl mb-5 text-gold-light">Contact</h4>
         <ul className="space-y-4 text-sm text-background/70 font-light">
-          <li className="flex gap-3"><Phone className="w-4 h-4 text-gold mt-0.5" /> +91 99283 88987</li>
+          <li className="flex gap-3"><Phone className="w-4 h-4 text-gold mt-0.5" /> +91 99999 99999</li>
           <li className="flex gap-3"><MapPin className="w-4 h-4 text-gold mt-0.5" /> Ajmer, Rajasthan, India</li>
           <li>
             <a
